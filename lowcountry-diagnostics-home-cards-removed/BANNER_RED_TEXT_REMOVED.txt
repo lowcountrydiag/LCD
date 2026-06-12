@@ -1,0 +1,1 @@
+Removed the red eyebrow text above the main homepage title.

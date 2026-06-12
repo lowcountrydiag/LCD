@@ -1,0 +1,3 @@
+Updated About page copy based on Joseph Cufaude / Lowcountry Diagnostics background.
+Added business address: 25 Aldene Ave, Goose Creek, SC 29445.
+Address added to visible contact/footer areas and LocalBusiness schema where present.

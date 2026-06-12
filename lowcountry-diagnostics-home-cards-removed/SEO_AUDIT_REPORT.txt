@@ -1,0 +1,50 @@
+Lowcountry Diagnostics SEO Metadata Audit
+Date: 2026-06-11
+
+Completed updates:
+- Reviewed all 35 HTML pages in the static website package.
+- Tightened title tags and meta descriptions into normal search-result length ranges.
+- Added canonical URLs, robots metadata, Open Graph, and Twitter Card metadata.
+- Added AutoRepair/LocalBusiness, WebSite, Service, Article, Breadcrumb, and FAQ schema where applicable.
+- Checked H1 structure, image alt text, sitemap coverage, internal service links, and AI/template wording.
+- Rebuilt sitemap.xml and robots.txt.
+
+Audit results:
+- about.html: title=65, desc=157, H1s=1, canonical=True, missing_alt=0, schemas=3
+- aftertreatment-dpf-def-diagnostics-charleston-sc.html: title=48, desc=104, H1s=1, canonical=True, missing_alt=0, schemas=4
+- all-services.html: title=61, desc=154, H1s=1, canonical=True, missing_alt=0, schemas=3
+- blog.html: title=57, desc=151, H1s=1, canonical=True, missing_alt=0, schemas=3
+- blog/accurate-aftertreatment-diagnostics-diesel-engine-codes.html: title=51, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/annual-dot-inspections-what-inspectors-document.html: title=56, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/annual-dot-inspections-what-inspectors-must-document.html: title=47, desc=157, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/brake-inspections-what-officers-look-for-and-how-to-pass.html: title=52, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/brake-inspections-what-officers-look-for.html: title=47, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/cvsa-roadcheck-2026-is-your-truck-ready-for-inspection-week.html: title=50, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/cvsa-roadcheck-2026-truck-ready.html: title=44, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/diesel-aftertreatment-diagnostics-charleston-sc.html: title=47, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/dot-lighting-requirements-what-must-work-every-time.html: title=50, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/dot-lighting-requirements-what-must-work.html: title=49, desc=157, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/how-to-prepare-for-dot-roadside-inspections.html: title=53, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/maintenance-records-trucking-companies-must-keep.html: title=50, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/top-roadside-violations-comeback-inspections.html: title=51, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- blog/top-roadside-violations-that-trigger-comeback-inspections.html: title=59, desc=158, H1s=1, canonical=True, missing_alt=0, schemas=2
+- construction-generator-equipment.html: title=63, desc=122, H1s=1, canonical=True, missing_alt=0, schemas=4
+- contact.html: title=57, desc=153, H1s=1, canonical=True, missing_alt=0, schemas=3
+- diesel-electrical-diagnostics-charleston-sc.html: title=43, desc=151, H1s=1, canonical=True, missing_alt=0, schemas=4
+- diesel-mechanic-charleston-sc.html: title=54, desc=119, H1s=1, canonical=True, missing_alt=0, schemas=4
+- diesel-truck-repair-charleston-sc.html: title=56, desc=106, H1s=1, canonical=True, missing_alt=0, schemas=4
+- electrical-no-start-diagnostics-charleston-sc.html: title=47, desc=153, H1s=1, canonical=True, missing_alt=0, schemas=4
+- faq.html: title=63, desc=150, H1s=1, canonical=True, missing_alt=0, schemas=4
+- fleet-diesel-repair-maintenance-charleston-sc.html: title=47, desc=141, H1s=1, canonical=True, missing_alt=0, schemas=4
+- fleet-maintenance-charleston-sc.html: title=56, desc=135, H1s=1, canonical=True, missing_alt=0, schemas=4
+- fleet-maintenance-contracts-charleston-sc.html: title=41, desc=138, H1s=1, canonical=True, missing_alt=0, schemas=4
+- index.html: title=59, desc=142, H1s=1, canonical=True, missing_alt=0, schemas=3
+- mobile-diesel-diagnostics-repair-charleston-sc.html: title=48, desc=159, H1s=1, canonical=True, missing_alt=0, schemas=4
+- mobile-diesel-mechanic-charleston-sc.html: title=61, desc=153, H1s=1, canonical=True, missing_alt=0, schemas=4
+- mobile-diesel-repair-charleston-sc.html: title=59, desc=155, H1s=1, canonical=True, missing_alt=0, schemas=4
+- roadside-diesel-repair-charleston-sc.html: title=61, desc=122, H1s=1, canonical=True, missing_alt=0, schemas=4
+- services.html: title=61, desc=157, H1s=1, canonical=True, missing_alt=0, schemas=3
+- sitemap.html: title=32, desc=146, H1s=1, canonical=True, missing_alt=0, schemas=3
+
+Remaining issues:
+- None found by this static audit.

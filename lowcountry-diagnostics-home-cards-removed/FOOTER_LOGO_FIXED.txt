@@ -1,0 +1,1 @@
+Footer full logo image was replaced with a cleaner icon plus real HTML text to avoid blurry small text and poor contrast on the dark footer.

@@ -1,0 +1,11 @@
+Lowcountry Diagnostics website update - industry verbiage pass
+
+Applied changes:
+- Repositioned primary language from generic "mobile diesel mechanic" wording toward "mobile heavy-duty truck repair" and "commercial fleet service."
+- Updated homepage title, meta description, H1, and hero copy.
+- Updated service page titles, H1s, and meta descriptions around industry-standard terms.
+- Strengthened fleet language around scheduled PM service, DOT readiness checks, inspection documentation, recurring issue tracking, and uptime.
+- Strengthened aftertreatment language around DPF, DEF, SCR, DOC, NOx sensors, regen status, differential pressure, exhaust temperature readings, derates, and root-cause diagnostics.
+- Strengthened electrical diagnostic language around no-start repair, charging system testing, battery draw testing, wiring harness faults, CAN communication issues, and lighting repair.
+- Preserved SEO pages/URLs so existing sitemap coverage remains intact.
+- Kept the footer logo background CSS cleanup from the previous fix.
